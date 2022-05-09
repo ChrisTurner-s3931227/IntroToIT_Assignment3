@@ -11,3 +11,5 @@ Android Virtual Device:
  
  
 Open the "App" folder as the project folder in Android Studio
+
+CPU Virtualization must be enabled in your BIOS/UEFI settings on Ryzen CPUs. Don't know about Intel CPUs.
