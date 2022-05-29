@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1049348516669",
+    "project_id": "beach-app-ee31f",
+    "storage_bucket": "beach-app-ee31f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049348516669:android:16cb18660bd731827f3354",
+        "android_client_info": {
+          "package_name": "com.beachappv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049348516669-iguchivbkvc2gphdb6ncf95n52gpvlqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDufqks_AMnaGvG3_nArIB2dGBhqjXCN1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049348516669-iguchivbkvc2gphdb6ncf95n52gpvlqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049348516669:android:422f92c99804ef917f3354",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049348516669-iguchivbkvc2gphdb6ncf95n52gpvlqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDufqks_AMnaGvG3_nArIB2dGBhqjXCN1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049348516669-iguchivbkvc2gphdb6ncf95n52gpvlqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

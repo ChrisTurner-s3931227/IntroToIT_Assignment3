@@ -5,6 +5,15 @@
       <map>
         <entry key="..\:/Intro to IT/Assignment3_Project/App/app/src/main/res/drawable/round_button.xml" value="0.1" />
         <entry key="..\:/Intro to IT/Assignment3_Project/App/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Intro to IT/Assignment3_Project/App/app/src/main/res/layout/activity_register.xml" value="0.1796875" />
+        <entry key="..\:/Intro to IT/Assignment3_Project/App/app/src/main/res/layout/login.xml" value="0.16666666666666666" />
+        <entry key="..\:/IntrotoIT/Assignment3_Project/App/app/src/main/res/layout/activity_beach_search.xml" value="0.16666666666666666" />
+        <entry key="..\:/IntrotoIT/Assignment3_Project/App/app/src/main/res/layout/activity_custom_list_view.xml" value="0.1" />
+        <entry key="..\:/IntrotoIT/Assignment3_Project/App/app/src/main/res/layout/activity_favorite.xml" value="0.165625" />
+        <entry key="..\:/IntrotoIT/Assignment3_Project/App/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/IntrotoIT/Assignment3_Project/App/app/src/main/res/layout/activity_map.xml" value="0.1796875" />
+        <entry key="..\:/IntrotoIT/Assignment3_Project/App/app/src/main/res/layout/activity_maps.xml" value="0.17300724637681159" />
+        <entry key="..\:/IntrotoIT/Assignment3_Project/App/app/src/main/res/layout/activity_nearest_beach.xml" value="0.165625" />
       </map>
     </option>
   </component>
